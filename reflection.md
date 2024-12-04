@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gabriel Davila - Campos
+Sudent Email:  gdavil01@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+In class, we walked through this assignment step by step, and that hands-on approach made a huge difference in how I understood the concepts. It was my first time creating an ETL pipeline, and seeing how we transformed raw data into something clean and structured for visualization was incredibly eye-opening. It showed me just how much effort goes into preparing data before anything else can happen, which is something I hadn’t fully appreciated before. One of the parts I enjoyed most was learning how to use Streamlit to build interactive dashboards. Having the opportunity to see the code come to life in a dynamic way was really exciting—it felt like everything we were learning was being tied together in a practical and creative way. We also touched on mapping visualizations with Geopandas and Folium, which introduced me to a whole new way of thinking about spatial data. Some aspects of it felt tricky, but having it broken down in class made it less overwhelming and helped me focus on the key steps involved. Overall, this assignment really helped solidify my understanding of how data is processed and visualized, and the guidance we had in class was invaluable. It’s one thing to read about these tools, but walking through them with examples made the learning process much more meaningful and memorable.
